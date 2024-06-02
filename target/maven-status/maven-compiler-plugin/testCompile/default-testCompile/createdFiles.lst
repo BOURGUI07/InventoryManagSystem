@@ -1,0 +1,5 @@
+logic\InventoryTest.class
+logic\OrderTest.class
+domain\ProductTest.class
+logic\AdminManagTest.class
+logic\PurchaseTest.class
