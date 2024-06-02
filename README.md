@@ -156,7 +156,8 @@ This project is a console-based application developed in Core Java, designed to 
 ## Technologies Used
 
 - **Java SE (Standard Edition)**: Core language for developing the application.
-- **Programming Paradigm Used: OOP.
 - **JUnit Framework**: For unit testing of the application's components.
 - **Console I/O**: For interaction with the user via the console.
 - **Collections Framework**: Utilized for managing products, orders, and inventory information efficiently.
+- **Object-Oriented Programming (OOP)**: Design paradigm to structure the application using objects and classes.
+
